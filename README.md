@@ -7,3 +7,5 @@ Run the Script in VS or Pycharm
 If you have any probs 
 feel free to DM me anytime
 all copyrights reserved
+
+Lost files
